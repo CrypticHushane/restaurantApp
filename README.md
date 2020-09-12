@@ -7,4 +7,6 @@
 
 # ![Intro 1](https://github.com/CrypticHushane/restaurantApp/blob/master/assets/intro_1.gif)
 
-# <img src="https://github.com/CrypticHushane/restaurantApp/blob/master/assets/intro_1.gif" width="40" height="40" />
+# ![Intro 2](https://github.com/CrypticHushane/restaurantApp/blob/master/assets/intro_2.gif)
+
+
