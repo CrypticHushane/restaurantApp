@@ -1,4 +1,4 @@
-src/api/*.js
+*.env
 node_modules/**/*
 .expo/*
 npm-debug.*
